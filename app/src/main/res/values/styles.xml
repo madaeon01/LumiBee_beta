@@ -1,0 +1,63 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="FullscreenTheme" parent="AppTheme">
+        <item name="android:actionBarStyle">@style/FullscreenActionBarStyle</item>
+        <item name="android:windowActionBarOverlay">true</item>
+        <item name="android:windowBackground">@null</item>
+        <item name="metaButtonBarStyle">?android:attr/buttonBarStyle</item>
+        <item name="metaButtonBarButtonStyle">?android:attr/buttonBarButtonStyle</item>
+    </style>
+
+    <style name="FullscreenActionBarStyle" parent="Widget.AppCompat.ActionBar">
+        <item name="android:background">@color/black_overlay</item>
+    </style>
+
+    <style name="SeekBarCur"
+        parent="Widget.AppCompat.SeekBar">
+        <item name="colorAccent">#ffff00</item>
+    </style>
+
+    <style name="SeekBarWait"
+        parent="Widget.AppCompat.SeekBar">
+        <item name="colorAccent">#00ffff</item>
+    </style>
+
+    <style name="SeekBarMov"
+        parent="Widget.AppCompat.SeekBar">
+        <item name="colorAccent">#00ff00</item>
+    </style>
+
+    <style name="SeekBarLum"
+        parent="Widget.AppCompat.SeekBar">
+        <item name="colorAccent">#00aaaa</item>
+    </style>
+
+    <style name="SeekBarFir"
+        parent="Widget.AppCompat.SeekBar">
+        <item name="colorAccent">#aa0000</item>
+    </style>
+
+    <style name="SeekBarlay"
+        parent="Widget.AppCompat.SeekBar">
+        <item name="colorAccent">#006699</item>
+    </style>
+
+    <style name="SeekBarPrev"
+        parent="Widget.AppCompat.SeekBar">
+        <item name="colorAccent">#404040</item>
+    </style>
+
+    <style name="SeekBarLumi"
+        parent="Widget.AppCompat.SeekBar">
+        <item name="colorAccent">#BA4AA4</item>
+    </style>
+
+</resources>
