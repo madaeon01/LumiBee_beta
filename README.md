@@ -16,3 +16,6 @@ To do:
 complete BOM
 assembly instructions
 how to use - guide
+
+A 3D viewable model of the assembly is available here:
+https://sketchfab.com/3d-models/lumibee-43fde758bdf04565baee1a75a64f292f
