@@ -1,0 +1,3 @@
+This is the list of settings for the tested resins
+
+Photocentric daylight Cream: 50um, 100s for the first layers, 26s per layer, 8s movement, 3s delay
