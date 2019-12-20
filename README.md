@@ -13,9 +13,13 @@ from the App, but at the moment, all the LumiBee development (hardware, software
 ONE single person (me) as a side project, for free. So feel free to contribute.
 
 To do:
-complete BOM
-assembly instructions
-how to use - guide
+-complete BOM
+-assembly instructions
+-how to use - guide
+-how to use the app
+In the next days this guide wil be update so if you do not find some info, just write me.
 
 A 3D viewable model of the assembly is available here:
 https://sketchfab.com/3d-models/lumibee-43fde758bdf04565baee1a75a64f292f
+
+
