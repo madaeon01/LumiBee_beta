@@ -15,6 +15,7 @@ ONE single person (me) as a side project, for free. So feel free to contribute.
 To do:
 -complete BOM
 -assembly instructions
+-how to use the screen luminosity tester
 -how to use - guide
 -how to use the app
 In the next days this guide wil be update so if you do not find some info, just write me.
