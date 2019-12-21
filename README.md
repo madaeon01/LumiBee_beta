@@ -23,4 +23,6 @@ In the next days this guide wil be update so if you do not find some info, just 
 A 3D viewable model of the assembly is available here:
 https://sketchfab.com/3d-models/lumibee-43fde758bdf04565baee1a75a64f292f
 
+You can contribute to this project with a donation to support it if you like it, with a paypal donation at madaeon@gmail.com
+
 
